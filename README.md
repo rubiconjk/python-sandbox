@@ -1,4 +1,4 @@
 # python-sandbox
 Python testing
 
-Just some test stuff in python here.
+Upgrading this script so it will work in python3 or python2.
